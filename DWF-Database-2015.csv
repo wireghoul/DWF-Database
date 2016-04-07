@@ -1,6 +1,6 @@
 "DWF_ID","DATE_ASSIGNED","DATE_PUBLIC","REQUESTER","ASSIGNER","REPLACED_BY","VERSION","LAST_UPDATE","STATE","TITLE"
-"DWF-2016-77000","2015-07-09","2015-07-09","larry0@me.com","larry0@me.com","","1","","LIVE","Remote file upload vulnerability in mailcwp v1.99 wordpress plugin"
-"DWF-2016-77001","2015-07-10","2015-07-10","larry0@me.com","larry0@me.com","","1","","LIVE","Remote file upload vulnerability in fast-image-adder v1.1 Wordpress plugin"
+"DWF-2015-77000","2015-07-09","2015-07-09","larry0@me.com","larry0@me.com","","1","","LIVE","Remote file upload vulnerability in mailcwp v1.99 wordpress plugin"
+"DWF-2015-77001","2015-07-10","2015-07-10","larry0@me.com","larry0@me.com","","1","","LIVE","Remote file upload vulnerability in fast-image-adder v1.1 Wordpress plugin"
 "DWF-2015-77002","2015-07-11","2015-07-11","larry0@me.com","larry0@me.com","","1","","LIVE","Open Proxy in filedownload v1.4 wordpress plugin"
 "DWF-2015-77003","2015-07-11","2015-07-11","larry0@me.com","larry0@me.com","","1","","LIVE","Blind SQL Injection in filedownload v1.4 wordpress plugin"
 "DWF-2015-77005","2015-07-12","2015-07-12","larry0@me.com","larry0@me.com","","1","","LIVE","Remote file download vulnerability in candidate-application-form v1.0 wordpress plugin"
