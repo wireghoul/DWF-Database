@@ -2,5 +2,7 @@
 "DWF-2016-80000","2016-03-22","","","kurt@seifried.org","",1,"","RESERVED",""
 "DWF-2016-89000","2016-03-09","2016-03-09","patrick@puiterwijk.org","patrick@puiterwijk.org","",1,"","LIVE",""
 "DWF-2016-89001","2016-03-09","2016-02-09","mcatanzaro@gnome.org","kurt@seifried.org","",1,"","LIVE",""
+"DWF-2016-90001","2016-03-01","2016-03-28","wireghoul@gmail.com","wireghoul@justanotherhacker.com","","1","","LIVE","Command injection in Codiad cloud IDE"
+"DWF-2016-90002","2016-04-20","2016-04-29","wireghoul@gmail.com","wireghoul@justanotherhacker.com","","1","","LIVE","Code injection in Safer Eval PHP class"
 "DWF-2016-91000","2016-03-17","2016-03-21","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","",1,"","LIVE","Bezeq firmware for Negear DGN2200 - multiple vulnerabilities"
 "DWF-2016-91001","2016-03-17","2016-03-21","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","",1,"","LIVE","ASUS driver unsafe operation"
